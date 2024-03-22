@@ -13,7 +13,7 @@ This repository contains a Python implementation of the SHA-256 encryption algor
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/sayantancodex/SHA-256-Encryption-Implementation
+    git clone https://github.com/sayantancodex/SHA-256-Encryption-Implementation.git
     ```
 
 2. Navigate to the project directory:
